@@ -1,0 +1,7 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\AutoGetSnAndSnipping\AutoGetSnAndSnipping\bin\x86\Release\AutoGetSnAndSnipping.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\AutoGetSnAndSnipping\AutoGetSnAndSnipping\bin\x86\Release\AutoGetSnAndSnipping.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\AutoGetSnAndSnipping\AutoGetSnAndSnipping\obj\x86\Release\AutoGetSnAndSnipping.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\AutoGetSnAndSnipping\AutoGetSnAndSnipping\obj\x86\Release\AutoGetSnAndSnipping.Form1.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\AutoGetSnAndSnipping\AutoGetSnAndSnipping\obj\x86\Release\AutoGetSnAndSnipping.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\AutoGetSnAndSnipping\AutoGetSnAndSnipping\obj\x86\Release\AutoGetSnAndSnipping.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\AutoGetSnAndSnipping\AutoGetSnAndSnipping\obj\x86\Release\AutoGetSnAndSnipping.exe
