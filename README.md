@@ -1,0 +1,2 @@
+# AutoGetSnAndSnippingCSharp
+CSharpCodingAboutSnipping
